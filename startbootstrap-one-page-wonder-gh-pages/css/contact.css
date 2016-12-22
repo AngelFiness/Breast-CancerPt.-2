@@ -6,14 +6,13 @@
 
 body {
     margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
-    background-color:pink 
 }
 
 .header-image {
     display: block;
     width: 100%;
     text-align: center;
-    background: url("http://more-sky.com/data/out/8/IMG_291751.png") no-repeat center center scroll;
+    background: url('http://placehold.it/1900x500') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -28,9 +27,7 @@ body {
     font-size: 130px;
     background: #fff;
     background: rgba(255,255,255,0.9);
-    background color:black
 }
-
 
 .headline h2 {
     font-size: 77px;
